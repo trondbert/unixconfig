@@ -1,0 +1,5 @@
+~/.inputrc:
+
+## If you enter a non-breaking space (e.g. Alt + Space) it gets converted to a normal space.
+## Very useful in the terminal
+"\xC2\xA0": " "
