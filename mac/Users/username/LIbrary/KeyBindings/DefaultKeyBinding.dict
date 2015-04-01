@@ -1,0 +1,3 @@
+{
+    "~ " = ("insertText:", " "); /* Changes Alt+Space to just Space (produces the pesky non-breaking space by default) */
+}
